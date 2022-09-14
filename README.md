@@ -1,5 +1,5 @@
 # Async_Await
-To run install node !
+To run, install node !
 Cmd : node test.js
 
 # Project_Part
